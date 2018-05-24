@@ -5,7 +5,7 @@ variable "region" {
 
 variable "ami" {
   type    = "string"
-  default = "amzn-ami-2017.09.i-amazon-ecs-optimized"
+  default = "ami-a7a242da"
 }
 
 variable "instance_type" {
